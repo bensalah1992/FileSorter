@@ -10,7 +10,7 @@ This Python script organizes files in a specified directory by sorting them into
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-URL>
+   git clone https://github.com/bensalah1992/FileSorter/
    cd file_sorter
    ````
 2. Run the script:
